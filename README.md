@@ -3,7 +3,7 @@ Hi! I'm ifp.
 I lead ambitious technical projects spanning SDK development, game systems, and functional UI/UX systems.
 
 I've led development of a UE Blueprint-style visual scripting language and runtime from the ground up.  
-I'm currently working on a total-conversion modification (derivative of Counter-Strike) for Escape For Tarkov.
+I'm currently working on a [total-conversion modification](https://github.com/Tarkov-Lambda/Lambda-Project) (derivative of Counter-Strike) for Escape For Tarkov.
 
 I'm interested in collaborating on horror, immersive sim, and co-op games.
 
