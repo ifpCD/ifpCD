@@ -2,7 +2,7 @@ Hi! I'm ifp.
 
 I work on Developer Tooling, Gameplay Design, Networking, and Spatial Audio Engineering.  
 
-I'm currently working on a [total-conversion modification](https://github.com/Tarkov-Lambda/Lambda-Project) (derivative of **Counter-Strike**) for **Escape For Tarkov**.  
+I'm currently working on a [total-conversion modification](https://github.com/Tarkov-Lambda/Lambda-Project) (derivative of **Counter-Strike**) for **Escape From Tarkov**.  
 I've led development of a **UE5 Blueprint**-style visual scripting language and runtime.  
 I wrote a **C#** spatializer pipeline bypassing **Unity**’s native **C++** backend to talk directly with **Steam Audio C API** for dual spatial-engine runtime.  
 Additionally, I have extensive background in Mechatronics, CAD, and Medium-Scale Manufacturing.  
