@@ -2,7 +2,7 @@ Hi! I'm ifp.
 
 I work across Developer Tooling, Gameplay Systems, Networking, and Spatial Audio Engineering.
 
-I'm currently researching frequency-dependent procedural high-order ambisonics synthesis for spatial audio.  
+I'm currently researching frequency-dependent high-order ambisonics mesh projection in [WyrmAudio](https://github.com/ifpCD/WyrmAudio).  
 
 I've worked on a [total-conversion modification](https://github.com/Tarkov-Lambda/Lambda-Project) (derivative of **Counter-Strike**) for **Escape From Tarkov**.  
 I've led development of a **UE5 Blueprint**-style visual scripting language and runtime.  
